@@ -1,0 +1,6 @@
+framework module Pods_E_3omal {
+  umbrella header "Pods-E-3omal-umbrella.h"
+
+  export *
+  module * { export * }
+}

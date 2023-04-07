@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "HJd-xX-Ocs"; */
+"HJd-xX-Ocs.text" = "الاجمالي";
+
+/* Class = "UILabel"; text = "New Balance"; ObjectID = "NDY-2F-GOr"; */
+"NDY-2F-GOr.text" = "الرصيد الحالي";
+
+/* Class = "UILabel"; text = "11 KD"; ObjectID = "Nbg-Ci-gVz"; */
+"Nbg-Ci-gVz.text" = "11 KD";
+
+/* Class = "UILabel"; text = "74 KD"; ObjectID = "Xxg-Xh-mo4"; */
+"Xxg-Xh-mo4.text" = "74 KD";
+
+/* Class = "UILabel"; text = "11/1/2019"; ObjectID = "dyF-eU-m1s"; */
+"dyF-eU-m1s.text" = "11/1/2019";
+
+/* Class = "UILabel"; text = "2:12 PM"; ObjectID = "hKs-CK-m0n"; */
+"hKs-CK-m0n.text" = "2:12 PM";
+
+/* Class = "UILabel"; text = "Old Balance"; ObjectID = "mwA-lY-dS4"; */
+"mwA-lY-dS4.text" = "الرصيد السابق";
+
+/* Class = "UILabel"; text = "74 KD"; ObjectID = "vda-sz-lp9"; */
+"vda-sz-lp9.text" = "74 KD";

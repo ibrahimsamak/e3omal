@@ -1,0 +1,78 @@
+/* 
+  Localizable.strings
+  E-3omal
+
+  Created by ibrahim M. samak on 8/1/18.
+  Copyright © 2018 ibrahim M. samak. All rights reserved.
+*/
+
+"Error" = "Error";
+"Done" = "Done";
+"Success" = "Success";
+"Please enter your Password" = "Please enter your Password";
+"Please enter confirm password" = "Please enter confirm password";
+"Not match!" = "Not match!";
+"An Error occurred" = "An Error occurred";
+"No Internet Connection" = "No Internet Connection";
+"Please enter a valid email" = "Please enter a valid email";
+"Please enter your email" = "Please enter your email";
+"Please enter your password" = "Please enter your password";
+"Please select the image source" = "Please select the image source";
+"Images" = "Images";
+"Cancel" = "Cancel";
+"Photo Library" = "Photo Library";
+"Camera" = "Camera";
+"Please enter your name" = "Please enter your name";
+"Please enter your phone number" = "Please enter your phone number";
+"Please enter your email address" =  "Please enter your email address";
+"Please enter valid email address" = "Please enter valid email address";
+"Please enter image profile" = "Please enter image profile";
+"Please agree terms & condetions" = "Please agree terms & condetions";
+"Please select one type at least (you can choose more than one)" = "Please select one type at least (you can choose more than one)";
+"Please enter image profile" = "Please enter image profile";
+"Please enter company name" = "Please enter company name";
+"Please select one type at least" = "Please select one type at least";
+"Please enter 4-digits" = "Please enter 4-digits";
+"Notifications" = "Notifications";
+"Terms and conditions" = "Terms and conditions";
+"Terms & Conditions" = "Terms & Conditions";
+"Privacy Policy" = "Privacy Policy";
+"Logout" = "Logout";
+"Warning"  = "Warning";
+"Amount" = "Amount";
+"Are you sure you want logout?" = "Are you sure you want logout?";
+"Please enter amount to charge your account" = "Please enter amount to charge your account";
+"Please enter price ammount" = "Please enter price ammount";
+"Terms of Use" = "Terms of Use";
+"Privacy Policy" = "Privacy Policy";
+"About Us" = "About Us";
+" K.D" = " K.D";
+"Contact Us" = "Contact Us";
+"Please enter your message" = "Please enter your message";
+"Budget: " = "Budget: ";
+"Sorry Can't Open Chat This is Your Account" = "Sorry Can't Open Chat This is Your Account";
+"Edit Profile" = "Edit Profile";
+"Video uploaded successfully" = "Video uploaded successfully";
+"Please enter job arabic title" = "Please enter job arabic title";
+"Please enter job engilsh title" = "Please enter job engilsh title";
+"Please enter job arabic description" = "Please enter job arabic description";
+"Please enter job engilsh description" = "Please enter job engilsh description";
+"Please enter job arabic address" = "Please enter job arabic address";
+"Please enter job english address" = "Please enter job english address";
+"Please enter job budget" = "Please enter job budget";
+"Please enter select type of the job" = "Please enter select type of the job";
+"Please enter select Location of the job" = "Please enter select Location of the job";
+"Please enter image of the job" = "Please enter image of the job";
+"Job Details" = "Job Details";
+"Search" = "Search";
+"All fields are required" = "All fields are required";
+"waiting" = "waiting";
+"payment" = "payment";
+"approved" = "approved";
+"done" = "done";
+"reject" = "rejected";
+"Pending" = "Pending";
+"Edit Profile" = "Edit Profile";
+"Invalid Password" = "Invalid Password";
+"Yes" = "Yes";
+"No" = "No";

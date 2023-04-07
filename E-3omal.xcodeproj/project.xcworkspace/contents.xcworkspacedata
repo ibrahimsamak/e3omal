@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:/Users/ibrahimm.samak/Google Drive/E-3omal/E-3omal/Customize"
+      name = "Customize">
+      <FileRef
+         location = "group:Constants.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Language.swift">
+      </FileRef>
+      <FileRef
+         location = "group:MIBlurPopup.swift">
+      </FileRef>
+      <FileRef
+         location = "group:LanguageManger.swift">
+      </FileRef>
+      <FileRef
+         location = "group:FloatRatingView.swift">
+      </FileRef>
+      <FileRef
+         location = "group:MJBadgeBarButton.swift">
+      </FileRef>
+      <FileRef
+         location = "group:SCScrollView.swift">
+      </FileRef>
+      <FileRef
+         location = "group:ImageScroller.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Localizer.swift">
+      </FileRef>
+      <FileRef
+         location = "group:CustomeView.swift">
+      </FileRef>
+      <FileRef
+         location = "group:ShadowView.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Style.swift">
+      </FileRef>
+      <FileRef
+         location = "group:GMStepper.swift">
+      </FileRef>
+      <FileRef
+         location = "group:CustomeView2.swift">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:/Users/ibrahimm.samak/Google Drive/E-3omal/E-3omal/Fonts"
+      name = "Fonts">
+      <FileRef
+         location = "group:JF-Flat-Regular.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:rpt-bold.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:rpt-regular.ttf">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:/Users/ibrahimm.samak/Google Drive/E-3omal/E-3omal/MyTools"
+      name = "MyTools">
+      <FileRef
+         location = "group:MyTools.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Extension.swift">
+      </FileRef>
+      <FileRef
+         location = "group:MyApi.swift">
+      </FileRef>
+      <FileRef
+         location = "group:MyDateAgo.swift">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:E-3omal.xcodeproj">
+   </FileRef>
+</Workspace>

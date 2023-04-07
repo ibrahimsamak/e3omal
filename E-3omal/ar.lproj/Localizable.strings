@@ -1,0 +1,80 @@
+/*
+ Localizable.strings
+ E-3omal
+ 
+ Created by ibrahim M. samak on 8/1/18.
+ Copyright © 2018 ibrahim M. samak. All rights reserved.
+ */
+
+
+"Error" = "خطأ";
+"Done" = "تم بنجاح";
+"Success" = "تم بنجاح";
+"Please enter your Password" = "يرجى ادخال كلمة المرور";
+"Please enter confirm password" = "يرجى ادخال تأكيد لكلمة المرور";
+"Not match!" = "لا يوجد تطابق!";
+"An Error occurred" = "نعتذر يوجد خطأ";
+"No Internet Connection" = "تأكد من أتصالك بالإنترنت";
+"Please enter a valid email" = "يرجى ادخال بريد الكتروني صحيح";
+"Please enter your email" = "يرجى ادخال البريد الإلكتروني";
+"Please enter your password" = "يرجى ادخال كلمة المرور";
+"Please select the image source" = "يرجى اختيار الصورة";
+"Images" = "الصور";
+"Cancel" = "إلغاء";
+"Photo Library" = "مكتبة الصور";
+"Camera" = "الكاميرا";
+"Please enter your name" = "يرجى ادخال الأسم";
+"Please enter your phone number" = "يرجى ادخال رقم الموبايل";
+"Please enter your email" = "يرجى ادخال البريد الإلكتروني";
+"Please enter valid email address" = "يرجى ادخال بريد الكتروني صحيح";
+"Please enter image profile" = "يرجى اختيار صورة شخصية";
+"Please agree terms & condetions" = "يرجى الموافقة على الشروط والأحكام";
+"Please select one type at least (you can choose more than one)" = "يرجى اختيار نوع واحد على الأقل";
+"Please enter image profile" = "يرجى اضافة صورة شخصية";
+"Please enter company name" = "يرجى أدخال اسم الشركة";
+"Please select one type at least" = "يرجى اختيار نوع واحد على الأقل";
+"Please enter 4-digits" = "يرجى ادخال الكود";
+"Notifications" = "الإشعارات";
+"Terms and conditions" = "الشروط والأحكام";
+"Terms & Conditions" = "الشروط والأجكام";
+"Privacy Policy" = "سياسة الخصوصية";
+"Logout" = "تسجيل الخروج";
+"Warning"  = "تحذير";
+"Amount" = "الرصيد";
+"Are you sure you want logout?" = "هل تريد تسجيل الخروج?";
+"Please enter amount to charge your account" = "يرجى اضافة رصيد إلى محفظتك";
+"Please enter price ammount" = "يرجى اضافة المبلغ";
+"Terms of Use" = "الشروط والأحكام";
+"Privacy Policy" = "سياسة الخصوصية";
+"About Us" = "عن التطبيق";
+" K.D" = " د.ك";
+"Contact Us" = "تواصل معنا";
+"Please enter your message" = "يرجى ادخال نص الرسالة";
+"Budget: " = "الميزانية: ";
+"Sorry Can't Open Chat This is Your Account" = "عذرا لا يمكنك , هذا حسابك";
+"Edit Profile" = "تعديل البيانات";
+"Video uploaded successfully" = "تم رفع الفيديو بنجاح";
+"Please enter job arabic title" = "يرجى ادخال عنوان الوظيفة باللغة العربية";
+"Please enter job engilsh title" = "يرجى ادخال عنوان الوظيفة باللغة الإنجليزية";
+"Please enter job arabic description" = "يرجى ادخال التفاصيل باللغة العربية";
+"Please enter job engilsh description" = "يرجى ادخال التفاصيل باللغة الإنجليزية";
+"Please enter job arabic address" = "يرجى ادخال العنوان باللغة العربية";
+"Please enter job english address" = "يرجى ادخال العنوان باللغة الإنجليزية";
+"Please enter job budget" = "يرجى ادخال الميزانية المقترحة";
+"Please enter select type of the job" = "يرجى اختيار نوع المهنة";
+"Please enter select Location of the job" = "يرجى ادخال العنوان";
+"Please enter image of the job" = "يرجى رفع صورة";
+"Job Details" = " التفاصيل";
+"Search" = "البحث";
+"All fields are required" = "جميع الحقول مطلوبة";
+"waiting" = "قيد الانتظار";
+"payment" = "الدفع";
+"approved" = "موافق عليها";
+"done" = "تم";
+"reject" = "مرفوضة";
+"Pending" = "انتظار الموافقة";
+"Please enter your email address" =  "يرجى ادخال البريد الالكتروني";
+"Edit Profile" = "تعديل  ";
+"Invalid Password" = "كلمة المرور خاطئة";
+"Yes" = "نعم";
+"No" = "لا";
